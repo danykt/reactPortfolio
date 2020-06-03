@@ -1,0 +1,27 @@
+#navbar-contact{
+	background-color: #123C69;
+	color: white;
+}
+#navbar-project{
+	background-color: #9a4d55;
+	opacity: .9;
+}
+
+#navbar-bio{
+	background-color: #659DBD;
+}
+#navbar-icon{
+	color: white;
+}
+
+#navbar-icon-active{
+	color: #FBEEC1;
+}
+
+#menu-item{
+	color: white;
+}
+
+#menu-item-active{
+	color: #FBEEC1;
+}
